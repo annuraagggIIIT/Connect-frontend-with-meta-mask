@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "browserify": "^17.0.0",
+    "ethers": "^6.6.1",
+    "http-server": "^14.1.1"
+  },
+  "devDependencies": {
+    "hardhat": "^0.0.7",
+    "webpack": "^5.88.0",
+    "webpack-cli": "^5.1.4"
+  }
+}
